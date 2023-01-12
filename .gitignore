@@ -15,3 +15,6 @@ venv.bak/
 
 # Unit test / coverage reports
 tests/
+
+# Data
+data/
